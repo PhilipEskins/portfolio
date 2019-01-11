@@ -57,3 +57,20 @@ body {
 #navStyle a:hover {
   color: #ccffcc;
 }
+
+#education {
+  background-color: lightgreen;
+}
+
+#work {
+  background-color: salmon;
+}
+
+#interest {
+  background-color: lavender;
+}
+
+.projects {
+  border: 5px solid black;
+  margin: 0px 30px;
+}
