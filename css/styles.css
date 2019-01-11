@@ -1,12 +1,36 @@
-.img-thumb {
-  height: 50em;
-  width: 50em;
+.lineup {
+  margin-left: 110px;
+}
+
+.centerimage {
+  display: block;
+  margin: 0px auto;
+  width: 50%;
+  height: 50%;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.floatleft {
+  float: left;
+  margin: 5px;
+  padding: 5px;
 }
 
 .clearleft {
   clear: left;
 }
 
-.lineup {
-  margin-left: 110px;
+.centertext {
+  text-align: center;
+}
+
+.textstrike {
+  text-decoration: line-through;
+}
+
+.biggertext {
+  font-size: 2.5em;
 }
