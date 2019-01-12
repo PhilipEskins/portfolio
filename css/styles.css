@@ -66,8 +66,13 @@ body {
   background-color: salmon;
 }
 
+.experience {
+  padding-left: 20px;
+}
+
 #interest {
   background-color: lavender;
+  padding-left: 5px;
 }
 
 .projects {
@@ -81,10 +86,14 @@ body {
 
 .projects a:hover {
   text-decoration: none;
-  background-color: salmon;
+  background-color: skyblue;
 }
 
-@media only screen and (max-width: 1100px) {
+#interest a:hover {
+  background-color: skyblue;
+}
+
+@media only screen and (max-width: 1150px) {
   .projects {
     margin: 0px;
   }
@@ -92,6 +101,12 @@ body {
 
 @media only screen and (max-width: 1000px) {
   .projects {
-    margin: 30px;
+    margin: 30px 0px;
+  }
+}
+
+@media only screen and (min-width: 1700px) {
+  .moveListsOver {
+    padding-left: 25%;
   }
 }

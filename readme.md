@@ -11,7 +11,7 @@ _This website is to show off my budding coding skills. It has links to 3 project
 ## Setup/Installation Requirements
 
 * _Download repository from https://github.com/PhilipEskins/portfolio_
-*_Open index.html using your browser of choice_
+* _Open index.html using your browser of choice_
 
 ## Known Bugs
 
