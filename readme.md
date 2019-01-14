@@ -7,6 +7,7 @@
 ## Description
 
 _This website is to show off my budding coding skills. It has links to 3 projects and some additional information about me._
+_Link to viewable portfolio https://philipeskins.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
